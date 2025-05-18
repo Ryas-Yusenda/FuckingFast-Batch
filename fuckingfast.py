@@ -21,7 +21,7 @@ class FuckingFastDownloader:
 
     async def get_fuckingfast_link(self, session, download_url):
         headers = {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/134.0.6998.99 Mobile/15E148 Safari/604.1",
             "accept-language": "en-US,en;q=0.9,id;q=0.8",
             "accept-encoding": "gzip, deflate, br",
             "accept": "text/html",
