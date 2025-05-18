@@ -11,6 +11,27 @@
 ### 🔧 How It Works
 
 1. Add a list of URLs or an HTML file containing links to `links.txt`.
+
+   - Example:
+     ```txt
+     https://fuckingfast.co/3x4mpl31ink1
+     https://fuckingfast.co/3x4mpl31ink2
+     ```
+   - Or, if you have an HTML file:
+     ```html
+     <!DOCTYPE html>
+     <html lang="en">
+       <head>
+         <meta charset="UTF-8" />
+         <title>Links</title>
+       </head>
+       <body>
+         <a href="https://fuckingfast.co/3x4mpl31ink1">File 1</a>
+         <a href="https://fuckingfast.co/3x4mpl31ink2">File 2</a>
+       </body>
+     </html>
+     ```
+
 2. Run the script using:
 
    ```bash
